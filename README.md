@@ -4,25 +4,29 @@ Welcome to the Meta Frontend Developer Course! This repository contains your cer
 
 ## Certificate Files:
 
-1. [Coding Interview Preparation Certificate.pdf](Coding%20Interview%20Preparation.pdf)
+1. [Introduction to Front-End Development Certification.pdf]
+ 
+   - Certificate of completion for Introduction to Front-End Development module.
+   
+2. [Coding Interview Preparation Certificate.pdf](Coding%20Interview%20Preparation.pdf)
    - Certificate of completion for the coding interview preparation module.
 
-2. [Front End Developer Capstone Certificate.pdf](Front%20End%20Developer%20Capstone.pdf)
+3. [Front End Developer Capstone Certificate.pdf](Front%20End%20Developer%20Capstone.pdf)
    - Certificate of completion for the frontend developer capstone project.
 
-3. [HTML and CSS in depth Certificate.pdf](HTML%20and%20CSS%20in%20depth.pdf)
+4. [HTML and CSS in depth Certificate.pdf](HTML%20and%20CSS%20in%20depth.pdf)
    - Certificate of completion for the HTML and CSS in-depth module.
 
-4. [Principle of UI UX Certificate.pdf](Principle%20of%20UI%20UX.pdf)
+5. [Principle of UI UX Certificate.pdf](Principle%20of%20UI%20UX.pdf)
    - Certificate of completion for the principles of UI/UX design module.
 
-5. [Programming with JavaScript Certificate.pdf](Programming%20with%20JavaScript.pdf)
+6. [Programming with JavaScript Certificate.pdf](Programming%20with%20JavaScript.pdf)
    - Certificate of completion for the programming with JavaScript module.
 
-6. [React Basics Certificate.pdf](React%20Basics.pdf)
+7. [React Basics Certificate.pdf](React%20Basics.pdf)
    - Certificate of completion for the React basics module.
 
-7. [Version Control Certificate.pdf](version%20control.pdf)
+8. [Version Control Certificate.pdf](version%20control.pdf)
    - Certificate of completion for the version control module.
 
 ## Getting Started:
